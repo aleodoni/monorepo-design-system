@@ -1,0 +1,3 @@
+{
+    "extends": "@cmc-ui/eslint-config"
+}

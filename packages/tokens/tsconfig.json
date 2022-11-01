@@ -1,0 +1,4 @@
+{
+  "extends": "@cmc-ui/ts-config/base.json",
+  "include": ["src"]
+}
