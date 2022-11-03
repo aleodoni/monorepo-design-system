@@ -25,4 +25,6 @@ export const colors = {
 
   green500: '#22c55e',
   green400: '#4ade80',
+
+  test: '#fff',
 }
