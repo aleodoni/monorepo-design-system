@@ -1,7 +1,8 @@
 {
   "name": "@cmc-ui/eslint-config",
+  "version": "2.1.0",
   "license": "MIT",
-  "private": "true",
+  "private": true,
   "main": "index.js",
   "devDependencies": {
     "@rocketseat/eslint-config": "^1.1.3",
