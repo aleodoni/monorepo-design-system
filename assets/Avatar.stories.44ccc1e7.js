@@ -1,0 +1,2 @@
+import{A as t}from"./index.a4fa5b7b.js";import"./index.d86cfd40.js";import"./iframe.827b4d52.js";import"./index.33001e85.js";import"./jsx-runtime.b3eeeabd.js";const e={title:"Data Display/Avatar",component:t,args:{src:"https://github.com/aleodoni.png",alt:"Alexandre Odoni"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},n=["Primary","WithFallback"];export{p as Primary,c as WithFallback,n as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories.44ccc1e7.js.map
