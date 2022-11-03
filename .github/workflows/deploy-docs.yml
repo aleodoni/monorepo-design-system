@@ -22,7 +22,7 @@ jobs:
       - run: npm run build
         env:
           TURBO_TOKEN: xd7pm7TuraiX7VXDWImBOqny
-          TURBO_TEAM:
+          TURBO_TEAM: aleodoni
 
       - name: Deploy storybook
         working-directory: ./packages/docs
