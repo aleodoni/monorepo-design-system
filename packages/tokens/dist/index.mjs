@@ -5,6 +5,7 @@ var colors = {
   white: "#fff",
   slate900: "#0f172a",
   slate800: "#1e293b",
+  slate700: "#334155",
   slate400: "#94a3b8",
   slate200: "#e2e8f0",
   slate100: "#f1f5f9",

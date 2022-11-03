@@ -4,6 +4,7 @@ declare const colors: {
     white: string;
     slate900: string;
     slate800: string;
+    slate700: string;
     slate400: string;
     slate200: string;
     slate100: string;
